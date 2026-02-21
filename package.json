@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-mesh-monitor-batch-d3o",
+  "version": "1.0.0",
+  "description": "Advanced analytics and monitoring platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-mesh-monitor-batch-d3o"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-mesh-monitor-batch-d3o.git"
+  }
+}
